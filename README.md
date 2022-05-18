@@ -1,6 +1,6 @@
 # TLS-Scheme-Interpreter
 
-1) The Goal os this project is to understand how the Scheme interpreter works on a deeper level by learning how primitive works and designing and adding new primitives to the interpreter.
+<ol> <li>The Goal os this project is to understand how the Scheme interpreter works on a deeper level by learning how primitive works and designing and adding new primitives to the interpreter. </li>
   Examples of primitive:
   primitive: my-add, my-division
 
